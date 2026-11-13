@@ -1,7 +1,5 @@
 ﻿internal class Product
 {
-    //Id,Kategoria,Gyarto,Modell,Ar_HUF,Keszlet_Db,Ertekeles
-
     public int Id { get; set; }
     public string Category { get; set; }
     public string Brand { get; set; }
